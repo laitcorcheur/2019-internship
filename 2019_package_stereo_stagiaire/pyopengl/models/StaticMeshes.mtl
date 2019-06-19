@@ -1,0 +1,4 @@
+﻿newmtl M_UVMaterial_M_UVMaterial
+	map_Kd M_UVMaterial_M_UVMaterial_D.bmp
+	M_UVMaterial_M_UVMaterial_S.bmp
+	bump M_UVMaterial_M_UVMaterial_N.bmp
